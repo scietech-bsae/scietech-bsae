@@ -25,4 +25,4 @@ BSAE est une entreprise mère avec pour mission de développer des startups tech
 ### Contact
 - **Email** : [scietech.bsae@gmail.com](mailto:scietech.bsae@gmail.com)
 - **LinkedIn** : [Profil LinkedIn](https://linkedin.com/in/https://www.linkedin.com/company/scietech-bsae-mg)
-- **Site Web** : [bsae.com](https://scietech.bsae.mg)
+- **Site Web** : [bsae.mg](https://scietech.bsae.mg)
